@@ -9,4 +9,3 @@ USER_NAME := halcyon_modules
 
 COMBO_ENABLE = no
 KEY_OVERRIDE_ENABLE = no
-NO_ALT_REPEAT_KEY = yes

@@ -8,4 +8,3 @@ ENCODER_MAP_ENABLE = yes
 USER_NAME := halcyon_modules
 
 COMBO_ENABLE = no
-KEY_OVERRIDE_ENABLE = no
